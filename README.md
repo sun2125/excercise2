@@ -1,2 +1,2 @@
-# excercise2
+# exercise2
 Repository for class exercise!!
